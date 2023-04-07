@@ -1,5 +1,5 @@
-# youtube-dl-simple-batch-download
-This code will download all youtube videos from urls in a txt file to the default youtube dl directory (and also notify you on discord)
+# youtube-dl-simple-interface
+This code will download all youtube videos from urls in a txt file or a single url to the default youtube dl directory (and can also notify you on discord when finished)
 
 If you do not have youtube-dl installed follow this tutorial:
 https://www.reddit.com/r/youtubedl/comments/qzqzaz/comment/hlon6k5/
